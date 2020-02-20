@@ -1,11 +1,12 @@
-# portfolio-master
-Master repo for my portfolio
+# info
+CONTENT:
+  Master repo for my portfolio/resume
 
 LANGUAGES:
   HTML
   CSS
   JavaScript
 
-FRAMEWORK:
+FRAMEWORKS:
   Bootstrap
   jQuery
